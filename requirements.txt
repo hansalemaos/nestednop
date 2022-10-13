@@ -1,0 +1,3 @@
+cprinter
+flatten_any_dict_iterable_or_whatsoever
+useful_functions_easier_life
